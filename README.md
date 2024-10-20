@@ -42,9 +42,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
     <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="laravel logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="40" alt="laravel logo"  />
+    <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="40" alt="laravel logo"  />
       <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="laravel logo"  />
+        <img width="12" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="laravel logo"  />
+          <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="laravel logo"  />
 </div>
 
 ###
