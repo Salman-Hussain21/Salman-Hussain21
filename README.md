@@ -50,9 +50,11 @@
       <img width="12" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="laravel logo"  />
         <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="laravel logo"  />
           <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="laravel logo"  />
+            <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="laravel logo"  />
 </div>
 
 ###
