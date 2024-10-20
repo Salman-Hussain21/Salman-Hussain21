@@ -26,7 +26,7 @@
 
 
 <div align="left">
-    <img src="https://skillicons.dev/icons?i=figma-dark" height="40" alt="react logo"  />
+    <img src="https://skillicons.dev/icons?i=figma" height="40" alt="react logo"  />
   <img width="12" />
       <img src="https://skillicons.dev/icons?i=photoshop" height="40" alt="react logo"  />
   <img width="12" />
