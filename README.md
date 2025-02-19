@@ -17,7 +17,7 @@
 <h2 align="left">Who Am I?</h2>
 
 
-<p align="left">🤓 Self taught Developer<br>👩‍💻 Working on Website Development<br>📝 Writing Words, Compiling Code<br>🎯 Goal : To be a better Developer</p>
+<p align="left">🤓 Designer & Developer<br>👩‍💻 Working on Website & Web App Development<br>📝 Writing Words, Compiling Code</p>
 
 ###
 
